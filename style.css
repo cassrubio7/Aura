@@ -1,0 +1,46 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f1f1f1;
+    color: #333;
+  }
+  
+  header {
+    background: #004d4d;
+    color: rgba(255, 255, 255, 0);
+    padding: 45px;
+    text-align: center;
+    font-size: 38px;
+        font-family: "Lilita One", sans-serif;
+      }      
+  
+  
+  h1 {
+    margin: 0;
+    background-color: #ffffff00;
+    color: #333;
+    padding: 48px;
+    text-align: left;
+    font-size: 36px;
+        font-family: "Courgette", cursive;
+      }      
+  
+
+
+  /* FUENTES PERSONALIZADAS */
+
+.lilita-one-regular {
+    font-family: "Lilita One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  /* Usa esta clase donde quieras Courgette */
+  .courgette-regular {
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
